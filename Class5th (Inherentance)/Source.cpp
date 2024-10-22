@@ -135,7 +135,7 @@ int main()
 	// Marine marine;
 	// Firebat firebat;
 	// Ghost ghost;
-	// 
+ 
 	// marine.Stats();
 	// firebat.Stats();
 	// ghost.Stats();
