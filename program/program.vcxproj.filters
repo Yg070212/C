@@ -18,18 +18,18 @@
     <ClCompile Include="program.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Terran.cpp">
+    <ClCompile Include="Fruit.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Vultuer.cpp">
+    <ClCompile Include="Banana.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Terran.h">
+    <ClInclude Include="Fruit.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="Vultuer.h">
+    <ClInclude Include="Banana.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
