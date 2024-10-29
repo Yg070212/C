@@ -1,6 +1,6 @@
-﻿  Brush.cpp
-  Paint.cpp
-  Pencil.cpp
+﻿  Computer.cpp
+  Keyboard.cpp
+  Mouse.cpp
   program.cpp
   코드를 생성하고 있습니다...
   program.vcxproj -> C:\Users\양현규\Desktop\겜프\Github\c\program\x64\Debug\program.exe
