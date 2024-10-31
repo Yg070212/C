@@ -5,6 +5,9 @@
     {
       "AbsoluteMoniker": "D:0:0:{91EBB8A0-55B7-4798-AD3E-82B72E388565}|program.vcxproj|C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\c\\program\\program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{91EBB8A0-55B7-4798-AD3E-82B72E388565}|program.vcxproj|solutionrelative:program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F2C51D-C149-48F2-AFA5-E7B2BC396C57}|..\\Class8th (Abstract)\\Class8th (Abstract).vcxproj|C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\c\\Class8th (Abstract)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +17,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 356,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\c\\Class8th (Abstract)\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Class8th (Abstract)\\Source.cpp",
+              "ToolTip": "C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\c\\Class8th (Abstract)\\Source.cpp",
+              "RelativeToolTip": "..\\Class8th (Abstract)\\Source.cpp",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAwCQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-31T11:57:36.889Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +40,7 @@
               "RelativeDocumentMoniker": "program.cpp",
               "ToolTip": "C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\c\\program\\program.cpp",
               "RelativeToolTip": "program.cpp",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAAwBYAAAAAAAAA",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAGIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-15T11:03:13.734Z",
               "EditorCaption": ""
