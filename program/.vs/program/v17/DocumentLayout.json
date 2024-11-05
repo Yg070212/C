@@ -5,6 +5,12 @@
     {
       "AbsoluteMoniker": "D:0:0:{91EBB8A0-55B7-4798-AD3E-82B72E388565}|program.vcxproj|C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\c\\program\\program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{91EBB8A0-55B7-4798-AD3E-82B72E388565}|program.vcxproj|solutionrelative:program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0140356-C588-477E-AF18-075809859345}|..\\Class11th (Smart Pointer)\\Class11th (Smart Pointer).vcxproj|C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\c\\Class11th (Smart Pointer)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49199617-8778-4B59-B674-1A7453BAC4EE}|..\\Class12th (Thread)\\Class12th (Thread).vcxproj|C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\c\\Class12th (Thread)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,9 +30,36 @@
               "RelativeDocumentMoniker": "program.cpp",
               "ToolTip": "C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\c\\program\\program.cpp",
               "RelativeToolTip": "program.cpp",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAACgAAAACAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-15T11:03:13.734Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\c\\Class11th (Smart Pointer)\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Class11th (Smart Pointer)\\Source.cpp",
+              "ToolTip": "C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\c\\Class11th (Smart Pointer)\\Source.cpp",
+              "RelativeToolTip": "..\\Class11th (Smart Pointer)\\Source.cpp",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-05T11:36:13.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\c\\Class12th (Thread)\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Class12th (Thread)\\Source.cpp",
+              "ToolTip": "C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\c\\Class12th (Thread)\\Source.cpp",
+              "RelativeToolTip": "..\\Class12th (Thread)\\Source.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-05T11:36:11.152Z",
               "EditorCaption": ""
             }
           ]
